@@ -38,8 +38,8 @@ npx skills add https://github.com/akirousnow/native-ui-skills
 
 ## 📖 库结构说明
 
-* [`SKILL.md`](SKILL.md)：核心 Skill 入口文件，包含全局配置及所有 97 个组件的功能提炼与速查表格。
-* [`docs/`](docs/)：所有 Naive UI 组件的详细文档集合，包含每个组件的：
+* [`skills/native-ui/SKILL.md`](skills/native-ui/SKILL.md)：核心 Skill 入口文件，包含全局配置及所有 97 个组件的功能提炼与速查表格。
+* [`skills/native-ui/docs/`](skills/native-ui/docs/)：所有 Naive UI 组件的详细文档集合，包含每个组件的：
   * 功能简述
   * 属性 (Props) 列表与默认值
   * 事件 (Events) 签名
